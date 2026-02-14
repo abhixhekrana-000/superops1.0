@@ -43,7 +43,7 @@ class bank:
           print(f"{i}:{info[i]}")
         print("please notedown your account number:")
         bank.data.append(info)
-        bank.update()
+        bank.updateaccount()
         
           
 
